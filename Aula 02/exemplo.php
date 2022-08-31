@@ -2,7 +2,7 @@
 
 	$adicao = 2 + 5;
 	$subtracao = 2 - 5;
-	$multiplicacao = 5 *2;
+	$multiplicacao = 5 * 2;
 	$divisao = 5 / 2;
 
 ?>
